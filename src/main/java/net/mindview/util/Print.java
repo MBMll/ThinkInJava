@@ -14,4 +14,8 @@ public class Print {
     public static void print(File file) {
         System.out.println(file.getName());
     }
+
+    public static void printnb(String csName) {
+        System.out.print(csName);
+    }
 }
