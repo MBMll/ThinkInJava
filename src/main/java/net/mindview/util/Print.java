@@ -15,8 +15,8 @@ public class Print {
         System.out.println(object);
     }
 
-    public static void printnb(String csName) {
-        System.out.print(csName.trim());
+    public static void printnb(Object csName) {
+        System.out.print(csName);
     }
 
     public static PrintStream printf(String format, Object... args) {
