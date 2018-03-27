@@ -13,7 +13,8 @@ import java.util.ArrayList;
  * Created by xlc on 2018/3/27.
  */
 public class People extends ArrayList<Person> {
-    public People(String fileName) throws ParsingException, IOException {
+
+    private People(String fileName) throws ParsingException, IOException {
         Document doc = new Builder().build(fileName);
         Elements elements = doc.getRootElement().getChildElements();
         for (int i = 0; i < elements.size(); i++)
