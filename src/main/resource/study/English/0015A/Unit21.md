@@ -1,0 +1,86 @@
+# Article
+## Text A
+| _&bull; The language of Uncertainty_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Uncertainty spreads through our lives so thoroughly[彻底地] that it dominates our language. Our everyday speech is made up in large part of words like probably, many, soon, great, little. What do these words mean? "Atomic war," declared a recent editorial in the London Times, "is likey to destroy forever the nation that wages it." How exactly are we to understand the word likely? Lacking any standard for estimating the probability, we are left with the judgment of the editorial writer.                                                                                                                                                                                                                       |
+| Such verbal imprecision is not necessarily to be criticised. Indeed, it has a value just because it allows us to express judgments when a precise quantitative statement is out of the question.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| The language of uncertainly has three main categories: (1) words such as probably, possibly, surely, which denote a single subjective probability and are potentially quantifiable; (2) words like many, often, soon, which are also quantifiable but denote not so much a condition of uncertainty as a quantity imprecisely known; (3) words like fat, rich, drunk, which can not be reduced to any accepted number because they are given different values by different people.                                                                                                                                                                                                                                            |
+| We have been trying to pin down by experiments what people mean by these expressions in specific contexts, and how the meanings change with age. For instance, a subject is told "There are many trees in the park" and is asked to say what number the word many mean to him. Or a child is invited to take "some" sweets from a bowl and we then count how many he has taken. We compare the number he takes when he is alone with the number when one or more other children are present and are to take some sweets after him, or with the number he takes when told to give "some" sweets to another child.                                                                                                              |
+| First, we find that the nuber depends, of course, on the items involved[牵涉,陷于]. To most people some friends means about five, while some trees means about twenty. However, unrelated areas sometimes show parallel values. For instance, the language of probability seems to means about the same thing in predictions about the weather and about politics: the expression is certain to ( rain, or be elected) signifies to the average person about a 70 per cent chances; is likely to, about a 60 per cent chance; probably will, about 55 per cent.                                                                                                                                                                   |
+| Secondly, the size of the population of items influences the value assigned to an expression. Thus, if we tell a subject to take "a few" or "a lot of" glass balls from a box, he will take more if the box contains a large number of glass balls than if it has a small number. But not proportionately more: if we increase the number of glass balls eight times, the subject takes only half as large a percentage of the total.                                                                                                                                                                                                                                                                                         |
+| Thirdly, there is a marked change with age. Among children between six and fourteen years old, the older the child, the fewer glass balls he will take. But the difference between a lot and a few widens with age. This age effect is so consistent that it might be used as a test of intelligence. In place of a long test we could merely ask the subject to give numerical values to expressions such as nearly always and very rarely in a given context, and then measure his intelligence by the ratio of the nuber for nearly always to the one for very rarely. We have found that this ration increases systematically from about 2 to 1 for a child of seven to about 20 to 1 for a person twenty-five years old. |
+
+### New words
+|                 |         |                             |
+| ---             | ---     | ---                         |
+| dominate        | vt./vi. | 统治,支配,控制                    |
+| judg(e)ment     | n.      | 审判,判决; 看法,意见; 评价; 判断        |
+| editorial       | n.      | 社论                          |
+|                 | a.      | 编辑的,主笔的                     |
+| wage            | n.      | [常 pl.] 工资,报酬               |
+|                 | vt.     | 进行,开展                       |
+| verbal          | a.      | 言辞的,字句的; 口头的,非书面的; 动词的      |
+| imprecision     | n.      | 不精确,不正确                     |
+| criticise       | vt.     | 批评,批判                       |
+| precise         | a.      | 精确的,准确的                     |
+| quantitative    | a.      | 与量有关的; 定量的                  |
+| denote          | v.      | 指示,指出; 代表,为...的符号           |
+| subjective      | a.      | 主观的,非客观的                    |
+| potentially     | ad.     | 可能的,潜在的                     |
+| quantifiable    | a.      | 可测定数量的,可量化的                 |
+| prediction      | n.      | 预言,预告; (气象等)预报              |
+| proportionately | ad.     | 适当比例地,相称的                   |
+| marked          | a.      | 明显的,显著的                     |
+| widen           | vt.     | 加宽,放宽加大                     |
+|                 | vi.     | 变宽,变阔扩大                     |
+| consistent      | a.      | 坚持的,一贯的; 与...一致,符合...(with) |
+| intelligence    | n.      | 智力,理解力,聪明; 情报,消息            |
+| ratio           | n.      | 比,比率                        |
+| systematically  | a.      | 有系统地,有体系的; 有计划的,有步骤的        |
+
+## Text B
+
+| _&bull; It Never Rains but It Pours!__                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
+| An hour before midnight is worth two after or so my mother used to tell me as I sat down to breakfast after a particularly late night. But is it really true that sleep before 12 p.m. is twice as good for you as sleep after that  hour? At the time, like most young people, I regarded this proverb as an old wive's tale[故事] with no relevance to my own life. I mean, an hour is an hour... it's 60 minutes, a.m. or p.m. However, now older and iser, I remember my mother's words as I scramble into bed at 11 o'clock. I am now a firm[坚定的] believer in the value of getting at least one hour's sleep before midnight!                                       |
+| Advice about how to live a healthy life is one example of the type of received wisdom `[智慧]` which is condensed `[浓缩]` and passed on to the next generation in the form of proverbs. Proverbs also serve to express general truths in a short and colorful way, for example, *There's no smoke without fire*, meaning that there is generally some truth in even the wildest rumours.                                                                                                                                                                                                                                                                                  |
+| Another type of proverb acts as a reminder of the correct way to behave, for example, *Don't wash your dirty linen in public*. This means don't discuss personal or family problems in front of trouble, for example, 8It's no use crying over spilt milk*. This proverb advises that it really is a waste of time to weep over mistakes that have already been made. Instead, it is much better to Make the best of a bad job -- to do your best whatever the sitution.                                                                                                                                                                                               |
+| Some English proverbs are native to Britain, for example, It never rains but it pours, a reference to the joys of the British weather! This proverb means that when one thing goes wrong, many other things go wrong as well. Another home-grown proverb is Every dog is allowed one bite. This proverb is based on an old English law dating back to the 17th century. The law said that the first time a dog bit somebody, its owner did not have to pay compensation to the victim because one bite did not prove that the dog was vicious. Hence the idea carried in the proverb, that everyone should be allowed to make a mistake without being punished for it. |
+| Other proverbs have come into the language from Latin or Greek. Lucretius, a classical Roman author, created the proverb One man's meat is another man's poision, meaning that what is good for one person can be harmful to another. And the proverb Let sleeping dogs lie meaning don't cause trouble when it can be avoided, came into English from the French in the 14th century.                                                                                                                                                                                                                                                                                 |
+| As Britain came into contact with other countries and cultures, English became enriched with the words and wisdom of different languages. From the Chinese, we borrowed the colourful proverb *He who rides a tiger is afraid to dismount*, meaning that if you start on a dangerous enterprise, it is often easier to carry it through to the end than to stop halfway.                                                                                                                                                                                                                                                                                               |
+| Some proverbs have been in the language for 1,000 years, for example, *A friend in need is a friend indeed*. The message here is that someone who stays with you and helps you in times of trouble, rather than turning their back, is a true friend. Other proverbs, however, are much more recent, and reflect changes in the way that we live.                                                                                                                                                                                                                                                                                                                      |
+| From the United States come the following two pieces of new wisdom, *Garbage in -- garbage out*, from the computer world reminds people that computers are only as good as their programs. From big business we have *There's no such thing as a free hunch*, meaning nothing is free. If someone buys you lunch, they will expect a favour in return.                                                                                                                                                                                                                                                                                                                 |
+| Some English people are reluctant `勉强的` to use proverbs in their everyday conversation because they see them as vehicles of too much used wisdom. Nevertheless `然而`, proverbs are still quite common in both written and spoken English and continue to provide a homely commentary on life and a reminder that the wisdom of our ancestors may still be useful to us today.                                                                                                                                                                                                                                                                                           |
+
+### New Words
+
+|                         |            |                           |
+| ---                     | ---        | ---                       |
+| proverb                 | n.         | 谚语,格言                     |
+| relevance               | n.         | 关联; 贴切,中肯                 |
+| scramble                | vi.        | 爬行                        |
+| believer                | n.         | 相信者; 信徒                   |
+| wisdom                  | n.         | 智慧,才智; 明智                 |
+| condense                | vt.        | 使冷凝,压缩,浓缩; 缩短,精简(文章等)     |
+|                         | vi.        | 浓缩; 凝结                    |
+| colo(u)rful             | a.         | 多色的,艳丽的                   |
+| rumo(u)r                | n.         | 谣言; 传闻                    |
+| reminder                | n.         | 提醒者,提醒物; 暗示,提示            |
+| behave                  | vi.        | 举动,举止; 表现                 |
+| linen                   | n.         | 亚麻布,亚麻织物                  |
+| spill (spilt / spilled) | vt./vi.    | 使溢出,使散落; 溢出               |
+| weep                    | vi.        | 哭泣                        |
+| bite (bit, bitten bit)  | vt./vi./n. | 咬, 叮, 蛰                   |
+| compensation            | n.         | 补偿,赔偿; 补偿物,赔偿费            |
+| vicious                 | a.         | 邪恶的; 恶意的,恶毒的              |
+| hence                   | ad.        | 因此,由此                     |
+| poison                  | n.         | 毒药                        |
+|                         | vt.        | 使... 中毒; 毒害               |
+| enrich                  | vt.        | 使富裕; 使丰富; 装饰,增美           |
+| dismount                | vi.        | 下马,下车                     |
+|                         | vt.        | 使下马,使掉下; 取下,卸下            |
+| enterprise              | n.         | 事业,计划; 事业单位,企业单位; 事业心,进取心 |
+| halfway                 | a.         | 位于两地中途的; 中途的,不彻底的         |
+| garbage                 | n.         | 废料,垃圾污物                   |
+| vehicle                 | n.         | 交通工具,车辆; 传播媒介,工具,手段       |
+| homely                  | a.         | 家庭的; 简单的,平常的              |

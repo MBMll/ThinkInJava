@@ -1,83 +1,83 @@
 # Article
 ## Text A
-|_&bull; Learned Words and Popular Words_|
-|---|
-|In every cultivated language there are two great classes of words which, taken together, make up the whole vocabulary. First, there are those words with which we become familiar in ordinary conversation, which we learn, that is to say, from the members of our own family and from our friends, and which we should know and use even if we could not read or write. They concern the common things of life, and are the stock in trade of all who speak the language. Such words may be called "popular," since they belong to the people at large and are not the possession of a limited class only.|
-|On the other hand, our language includes a large number of words which are relatively seldom used in ordinary conversation. Their meanings are known to every educated person, but there is little occasion to use them at home. Our first acquaintance with them comes not from our mother's lips or from the talk of our classmates, but from books that we read, lectures that we hear, or the more formal conversation of highly educated speakers who are discussing some particular topic in an elevated style. Such words are called "learned", and the difference between them and "popular" words is of great importance to a right understanding of language.|
-|The difference between popular and learned words may be easily seen in a few examples. We may describe a gril as "lively" or as "vivacious." In the first case, we are using a native English word formed from the familiar noun life. In the latter, we are using a Latin derivative which has exactly the same meaning. Yet the atmosphere of the two words is quite different. No one ever got the adjective lively out fo a book. It is a part of everybody's vocabulary. We cannot remember a time when did not know it, and we feel sure that we learned it long before we were able to read. On the other hand, we must have passed several years of our lives before learning the word vivacious. We may even remember the first time that we saw it in print or heard it from some grown-up friend. Both lively and vivacious are good English words, but lively is popular and vivacious is learned.|
-|The terms "popular" and "learned," as applied to words, are not absolute definitions. No two persons have the same stock of words and the same words may be "popular" in one man's vocabulary and "learned" in another's. There are also different grades of "poplularity." Still, the classification into "learned" and "popular" is convenient and sound. Different opinions may come up as to the classification of any particular word, but there can be no differece of opinion about the general principle. We must be careful, however, to avoid misconception. When we call a word "popular," we do not mean that it is a favorite word, but simply that it belongs to the people as a whole -- that is, it is everybody's word, not the possession of a limited number. When we call a word "learned" we do not mean that it is used by learned persons alone, but simply that its presence in the English vocabulary is due to books and the cultivation of literature rather than to the actual needs of ordinary conversation.|
+| _&bull; Learned Words and Popular Words_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| In every cultivated language there are two great classes of words which, taken together, make up the whole vocabulary. First, there are those words with which we become familiar in ordinary conversation, which we learn, that is to say, from the members of our own family and from our friends, and which we should know and use even if we could not read or write. They concern the common things of life, and are the stock in trade of all who speak the language. Such words may be called "popular," since they belong to the people at large and are not the possession of a limited class only.                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| On the other hand, our language includes a large number of words which are relatively seldom used in ordinary conversation. Their meanings are known to every educated person, but there is little occasion to use them at home. Our first acquaintance with them comes not from our mother's lips or from the talk of our classmates, but from books that we read, lectures that we hear, or the more formal conversation of highly educated speakers who are discussing some particular topic in an elevated style. Such words are called "learned", and the difference between them and "popular" words is of great importance to a right understanding of language.                                                                                                                                                                                                                                                                                                                                                                    |
+| The difference between popular and learned words may be easily seen in a few examples. We may describe a gril as "lively" or as "vivacious." In the first case, we are using a native English word formed from the familiar noun life. In the latter, we are using a Latin derivative which has exactly the same meaning. Yet the atmosphere of the two words is quite different. No one ever got the adjective lively out fo a book. It is a part of everybody's vocabulary. We cannot remember a time when did not know it, and we feel sure that we learned it long before we were able to read. On the other hand, we must have passed several years of our lives before learning the word vivacious. We may even remember the first time that we saw it in print or heard it from some grown-up friend. Both lively and vivacious are good English words, but lively is popular and vivacious is learned.                                                                                                                             |
+| The terms "popular" and "learned," as applied to words, are not absolute definitions. No two persons have the same stock of words and the same words may be "popular" in one man's vocabulary and "learned" in another's. There are also different grades of "poplularity." Still, the classification into "learned" and "popular" is convenient and sound. Different opinions may come up as to the classification of any particular word, but there can be no differece of opinion about the general principle. We must be careful, however, to avoid misconception. When we call a word "popular," we do not mean that it is a favorite word, but simply that it belongs to the people as a whole -- that is, it is everybody's word, not the possession of a limited number. When we call a word "learned" we do not mean that it is used by learned persons alone, but simply that its presence in the English vocabulary is due to books and the cultivation of literature rather than to the actual needs of ordinary conversation. |
 
 ### New words
-||||
-|---|---|---|
-|learned|a.|有学问的,博学的;学术上的|
-| |a.|经过训练学到的|
-|cultivated|a.|耕种的,耕作的;栽培的,非野生的;有修养的,文雅的|
-|concern|n.|关心,挂念;关系,关联|
-| |vt.|涉及,有关于;使关心,使挂念|
-|stock|n.|备料,库存;股票,公债;有货|
-| |vt.|储备,储存|
-|possession|n.|所有,拥有;所有物|
-|occasion|n.|时刻;场合,重大的活动;时机,机会|
-|acquaintance|n.|认识,了解;相识的人,熟人|
-|elevated|a.|提高的,升高的;高贵的,庄严的|
-|vivacious|a.|活泼的,轻快的|
-|noun|n.|名词|
-|derivative|n.|派生词;派生物|
-| |a.|派生的,衍生的|
-|adjective|n.|形容词|
-|convenient|a.|方便的|
-|misconception|n.|误解,错误想法;错误印象|
-|presence|n.|出席,到场;存在|
-|literature|n.|文学,文学作品;文献,图书资料|
+|               |     |                           |
+| ---           | --- | ---                       |
+| learned       | a.  | 有学问的,博学的;学术上的             |
+|               | a.  | 经过训练学到的                   |
+| cultivated    | a.  | 耕种的,耕作的;栽培的,非野生的;有修养的,文雅的 |
+| concern       | n.  | 关心,挂念;关系,关联               |
+|               | vt. | 涉及,有关于;使关心,使挂念            |
+| stock         | n.  | 备料,库存;股票,公债;有货            |
+|               | vt. | 储备,储存                     |
+| possession    | n.  | 所有,拥有;所有物                 |
+| occasion      | n.  | 时刻;场合,重大的活动;时机,机会         |
+| acquaintance  | n.  | 认识,了解;相识的人,熟人             |
+| elevated      | a.  | 提高的,升高的;高贵的,庄严的           |
+| vivacious     | a.  | 活泼的,轻快的                   |
+| noun          | n.  | 名词                        |
+| derivative    | n.  | 派生词;派生物                   |
+|               | a.  | 派生的,衍生的                   |
+| adjective     | n.  | 形容词                       |
+| convenient    | a.  | 方便的                       |
+| misconception | n.  | 误解,错误想法;错误印象              |
+| presence      | n.  | 出席,到场;存在                  |
+| literature    | n.  | 文学,文学作品;文献,图书资料           |
 
 
 ## Text B
 
-|_&bull; How Should You Build Up Your Vocabulary?_|
-|---|
-|**Through Context**|
-|When students in a college class were asked what should be done when they came across a new word in their reading, 84 percent said, "Look it up in the dictionary." If you do, however, you interrupt the very mental processes needed to make your efforts most productive.|
-|But there's another reason. Suppose someone asks you what the word "fast" means. You answer, "swift." But does it mean that in such contexts as "fast color," "fast woman," or "fast friend"? And if a horse is fast, is it securely tied or running at top spped? It could be either. It all depends. On the dictionary? No, on context -- on how the word is actually used. After all there are over twenty different meanings for "fast" in the dictionary. But the dictionary doesn't tell you which for "fast" in the dictionary. But the dictionary doesn't tell you which meaning is intended. That's why it makes such good tell you which meaning is intended. That's why it makes such good sense to begin with context.|
-|**Through Word Parts**|
-|Now for the next step. Often new words contain one or more parts, which, if recognized, provide specific help with meaning Suppose you read that someone "had a preference for reading travel books." The context certainly isn't too helpful. But do you see a prefix, suffix, or root that you know? Well, there's the familiar prefix pre-, meaning "before." Look back at the context and try inserting "before." Reading travel books apparently comes "before" other kinds of reading. Yes, a preference is something put "before" some thing else.|
-|Your second step, then, is to look for familiar word parts. If they do not give you exact meaning, they should at least bring you much closer.|
-|Now you can see why you should consult the dictionary last, not first. You're looked carefully at context. You're looked for familiar word parts. Now you play Sherlock Holmes -- an exciting role. You guess. What exactly does that strange word mean? Only when you go through the mental exercises to come up with a tentative definition should you open the dictionary to see if you're right.|
-|After all, those first two steps or approaches spark a stronger than usual interest in that dictionary definition. You're now personally involved. Did you find out the word and meaning. It also encourages your development of the habits needed to speed your progress. And when you see in black and white the definition you had expected, what a feeling of success is yours. In that way, the CPD Formula provides you with maximum effectiveness.|
-|Well, there it is, your new formula -- Context, Parts, Dictionary. Use it! The exercises which follow will give you specific, step-by-step help in sharpening your awareness of contextual clues, learning the most useful word parts, and using the dictionary with increased accuracy and ease. The result will be like money in the bank.|
+| _&bull; How Should You Build Up Your Vocabulary?_                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| ---                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| **Through Context**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
+| When students in a college class were asked what should be done when they came across a new word in their reading, 84 percent said, "Look it up in the dictionary." If you do, however, you interrupt the very mental processes needed to make your efforts most productive.                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
+| But there's another reason. Suppose someone asks you what the word "fast" means. You answer, "swift." But does it mean that in such contexts as "fast color," "fast woman," or "fast friend"? And if a horse is fast, is it securely tied or running at top spped? It could be either. It all depends. On the dictionary? No, on context -- on how the word is actually used. After all there are over twenty different meanings for "fast" in the dictionary. But the dictionary doesn't tell you which for "fast" in the dictionary. But the dictionary doesn't tell you which meaning is intended. That's why it makes such good tell you which meaning is intended. That's why it makes such good sense to begin with context. |
+| **Through Word Parts**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             |
+| Now for the next step. Often new words contain one or more parts, which, if recognized, provide specific help with meaning Suppose you read that someone "had a preference for reading travel books." The context certainly isn't too helpful. But do you see a prefix, suffix, or root that you know? Well, there's the familiar prefix pre-, meaning "before." Look back at the context and try inserting "before." Reading travel books apparently comes "before" other kinds of reading. Yes, a preference is something put "before" some thing else.                                                                                                                                                                          |
+| Your second step, then, is to look for familiar word parts. If they do not give you exact meaning, they should at least bring you much closer.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Now you can see why you should consult the dictionary last, not first. You're looked carefully at context. You're looked for familiar word parts. Now you play Sherlock Holmes -- an exciting role. You guess. What exactly does that strange word mean? Only when you go through the mental exercises to come up with a tentative definition should you open the dictionary to see if you're right.                                                                                                                                                                                                                                                                                                                               |
+| After all, those first two steps or approaches spark a stronger than usual interest in that dictionary definition. You're now personally involved. Did you find out the word and meaning. It also encourages your development of the habits needed to speed your progress. And when you see in black and white the definition you had expected, what a feeling of success is yours. In that way, the CPD Formula provides you with maximum effectiveness.                                                                                                                                                                                                                                                                          |
+| Well, there it is, your new formula -- Context, Parts, Dictionary. Use it! The exercises which follow will give you specific, step-by-step help in sharpening your awareness of contextual clues, learning the most useful word parts, and using the dictionary with increased accuracy and ease. The result will be like money in the bank.                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ### New Words
-||||
-|---|---|---|
-|vocabulary|n.|词汇(量);词汇表|
-|context|n.|上下文,语境|
-|interrupt|vt.|打断,打扰;终止,阻碍,中断|
-|process|n.|过程,进程;工序,加工方法|
-| |vt.|加工,处理|
-|swift|a.|快速的,敏捷的|
-|securely|ad.|安全地;牢固地,稳固地;信心十足地,有把握地|
-|intend|vt.|想要,打算;意指,意思是|
-|specific|a.|具体的,明确的;待定的,特有的|
-|preference|n.|偏爱;优先(权)|
-|apparently|ad.|显然地;表面上,似乎|
-|consult|vt.|请教,咨询;查阅,查看|
-| |vi.|交换意见,商议|
-|tentative|a.|试探性的;尝试性的|
-|spark|n.|火花,火星|
-| |vi.|发火花,发电花|
-| |vt.|激发,引起|
-|personally|ad.|亲自,当面;就个人而言;作为个人,个别地|
-|heighten|vt.|加高,提高,增高;增加,增大,加强|
-|formula ([复]formulas/formulae)|n.|公式|
-|maximum|n.|最大限度,最大量,顶点|
-| |a.|最高的,最大的|
-|effectiveness|n.|效果,有效性|
-|sharpen|vt.|削尖,磨尖;使敏锐,使敏捷|
-|awareness|n.|意识,觉悟;懂事,明智|
-|contextual|a.|上下文的;取决于上下文的|
-|accuracy|n.|准确(性),精确(性)|
-|ease|n.|容易;舒适,安逸|
-| |vt./vi.|缓和,减轻|
+|                                |         |                        |
+| ---                            | ---     | ---                    |
+| vocabulary                     | n.      | 词汇(量);词汇表              |
+| context                        | n.      | 上下文,语境                 |
+| interrupt                      | vt.     | 打断,打扰;终止,阻碍,中断         |
+| process                        | n.      | 过程,进程;工序,加工方法          |
+|                                | vt.     | 加工,处理                  |
+| swift                          | a.      | 快速的,敏捷的                |
+| securely                       | ad.     | 安全地;牢固地,稳固地;信心十足地,有把握地 |
+| intend                         | vt.     | 想要,打算;意指,意思是           |
+| specific                       | a.      | 具体的,明确的;待定的,特有的        |
+| preference                     | n.      | 偏爱;优先(权)               |
+| apparently                     | ad.     | 显然地;表面上,似乎             |
+| consult                        | vt.     | 请教,咨询;查阅,查看            |
+|                                | vi.     | 交换意见,商议                |
+| tentative                      | a.      | 试探性的;尝试性的              |
+| spark                          | n.      | 火花,火星                  |
+|                                | vi.     | 发火花,发电花                |
+|                                | vt.     | 激发,引起                  |
+| personally                     | ad.     | 亲自,当面;就个人而言;作为个人,个别地   |
+| heighten                       | vt.     | 加高,提高,增高;增加,增大,加强      |
+| formula ([复]formulas/formulae) | n.      | 公式                     |
+| maximum                        | n.      | 最大限度,最大量,顶点            |
+|                                | a.      | 最高的,最大的                |
+| effectiveness                  | n.      | 效果,有效性                 |
+| sharpen                        | vt.     | 削尖,磨尖;使敏锐,使敏捷          |
+| awareness                      | n.      | 意识,觉悟;懂事,明智            |
+| contextual                     | a.      | 上下文的;取决于上下文的           |
+| accuracy                       | n.      | 准确(性),精确(性)            |
+| ease                           | n.      | 容易;舒适,安逸               |
+|                                | vt./vi. | 缓和,减轻                  |
 
 # Grammar
 ## 分词
@@ -217,10 +217,10 @@ She saw the man get on the struck and drive off.
 
 ### 分词的时态和语态
 
-| |主动形式|被动形式|
-|---|---|---|
-|一般式| writing|being writing|
-|完成式|having written|having been written|
+|     | 主动形式           | 被动形式                |
+| --- | ---            | ---                 |
+| 一般式 | writing        | being writing       |
+| 完成式 | having written | having been written |
 
 #### 1. 完成式
 
